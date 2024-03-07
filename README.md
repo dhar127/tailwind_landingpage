@@ -1,6 +1,3 @@
-Certainly! Here's a README file with instructions for using Tailwind CSS:
-
-```markdown
 # Using Tailwind CSS for Food App Landing Page
 
 This repository contains the landing page for a food app created using Tailwind CSS.
